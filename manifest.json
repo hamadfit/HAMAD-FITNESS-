@@ -1,1 +1,12 @@
-{"name":"HAMAD FITNESS","short_name":"HAMAD FIT","lang":"ar","dir":"rtl","start_url":"./index.html","display":"standalone","background_color":"#090d0b","theme_color":"#090d0b","description":"تطبيق عربي مجاني لتسجيل التمارين وتتبع النشاط"}
+{
+  "name": "HAMAD FITNESS",
+  "short_name": "HAMAD FIT",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090d0b",
+  "theme_color": "#090d0b",
+  "description": "تطبيق عربي مجاني لتسجيل التمارين والخطوات والجري"
+}
